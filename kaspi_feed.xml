@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="2026-11-18 12:04" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>Belkin kz</company>
+  <merchantid>30487443</merchantid>
+  <offers>
+    <offer sku="WIZ039KQBK">
+      <model>Belkin 25W QI2 2IN1 FOLDABLE CHARGER (ROUND)</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="12"/>
+      </availabilities>
+      <price>44990</price>
+    </offer>
+    <offer sku="WIZ039KQWH">
+      <model>Belkin 25W QI2 2IN1 FOLDABLE CHARGER (ROUND)</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="8"/>
+      </availabilities>
+      <price>44990</price>
+    </offer>
+    <offer sku="WIZ037KQBK">
+      <model>BELKIN 25w Qi2 3in1 Magnetic Charger, EU, Black, Round</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>64990</price>
+    </offer>
+    <offer sku="WIZ037KQWH">
+      <model>BELKIN 25w Qi2 3in1 Magnetic Charger, EU, White, Round</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>64990</price>
+    </offer>
+    <offer sku="WIZ040KQCH">
+      <model>Belkin 25W QI2 3-IN-1 WIRELESS CHARGING STAND (MASS)</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="28"/>
+      </availabilities>
+      <price>90990</price>
+    </offer>
+    <offer sku="WIZ040KQSD">
+      <model>Belkin 25W QI2 3-IN-1 WIRELESS CHARGING STAND (MASS)</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="28"/>
+      </availabilities>
+      <price>90990</price>
+    </offer>
+    <offer sku="BPD004BTBK">
+      <model>BELKIN BoostCharge Magnetic Wireless Power Bank 5K + Stand</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>34990</price>
+    </offer>
+    <offer sku="BPD004BTWT">
+      <model>BELKIN BoostCharge Magnetic Wireless Power Bank 5K + Stand</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>34990</price>
+    </offer>
+    <offer sku="BPD007BTBK">
+      <model>BELKIN BoostCharge Qi2 Magnetic 15W Wireless Power Bank 8K + Stand</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>42990</price>
+    </offer>
+    <offer sku="BPD007BTWH">
+      <model>BELKIN BoostCharge Qi2 Magnetic 15W Wireless Power Bank 8K + Stand</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="37"/>
+      </availabilities>
+      <price>42990</price>
+    </offer>
+    <offer sku="BPD008BTBK">
+      <model>BELKIN BoostCharge Qi2 Magnetic 15W Wireless Power Bank 10K + Stand</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>56990</price>
+    </offer>
+    <offer sku="BPD008BTWH">
+      <model>BELKIN BoostCharge Qi2 Magnetic 15W Wireless Power Bank 10K + Stand</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>49990</price>
+    </offer>
+    <offer sku="BPB011BTBK">
+      <model>BELKIN BoostCharge 3-Port 10K Power Bank with USB-C 15W, dual USB-A, 15cm USB-A to USB-C Cable, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>15990</price>
+    </offer>
+    <offer sku="BPB011BTGY">
+      <model>BELKIN BoostCharge 3-Port 10K Power Bank with USB-C 15W, dual USB-A, 15cm USB-A to USB-C Cable, Grey</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>15990</price>
+    </offer>
+    <offer sku="BPB011BTRG">
+      <model>BELKIN BoostCharge 3-Port 10K Power Bank with USB-C 15W, dual USB-A, 15cm USB-A to USB-C Cable, Pink</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>15990</price>
+    </offer>
+    <offer sku="BPB012BTBK">
+      <model>BELKIN BoostCharge 3-Port 20K Power Bank with USB-C 15W, dual USB-A, 15cm USB-A to USB-C Cable, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="BPB012BTGY">
+      <model>BELKIN BoostCharge 3-Port 20K Power Bank with USB-C 15W, dual USB-A, 15cm USB-A to USB-C Cable, Grey</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="BPB021HQBK">
+      <model>BELKIN BOOSTCHARGE POWER BANK 10K WITH INTEGRATED CABLE</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="10"/>
+      </availabilities>
+      <price>23990</price>
+    </offer>
+    <offer sku="BPB021HQBL">
+      <model>BELKIN BOOSTCHARGE POWERBANK 10K W/ INTEGRATED CABLE,BLUE</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="8"/>
+      </availabilities>
+      <price>23990</price>
+    </offer>
+    <offer sku="BPB021HQPK">
+      <model>BELKIN BOOSTCHARGE POWERBANK 10K W/ INTEGRATED CABLE,PINK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="8"/>
+      </availabilities>
+      <price>23990</price>
+    </offer>
+    <offer sku="BPB024HQBK">
+      <model>BELKIN BOOSTCHARGE POWER BANK 20K W/INTEGRATED CABLE,BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>26990</price>
+    </offer>
+    <offer sku="BPB024HQPK">
+      <model>BELKIN BOOSTCHARGE POWER BANK 20K W/INTEGRATED CABLE,PINK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>26990</price>
+    </offer>
+    <offer sku="BPB024HQBL">
+      <model>BELKIN BOOSTCHARGE POWER BANK 20K W/INTEGRATED CABLE,BLUE</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>26990</price>
+    </offer>
+    <offer sku="BPB027HQBK">
+      <model>BELKIN BOOSTCHARGE POWER BANK 10K W/ DISPLAY, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="26"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="BPB027HQBL">
+      <model>BELKIN BOOSTCHARGE POWER BANK 10K W/ DISPLAY, BLUE</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="BPB027HQPK">
+      <model>BELKIN BOOSTCHARGE POWER BANK 10K W/ DISPLAY, PINK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="BPB027HQSD">
+      <model>BELKIN BOOSTCHARGE POWER BANK 10K W/ DISPLAY, SAND</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="BPB028HQBK">
+      <model>BELKIN BOOSTCHARGE POWER BANK 20K W/ DISPLAY, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>29990</price>
+    </offer>
+    <offer sku="BPB028HQBL">
+      <model>BELKIN BOOSTCHARGE POWER BANK 20K W/ DISPLAY, BLUE</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>29990</price>
+    </offer>
+    <offer sku="BPB028HQPK">
+      <model>BELKIN BOOSTCHARGE POWER BANK 20K W/ DISPLAY, PINK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>29990</price>
+    </offer>
+    <offer sku="BPB028HQSD">
+      <model>BELKIN BOOSTCHARGE POWER BANK 20K W/ DISPLAY, SAND</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>29990</price>
+    </offer>
+    <offer sku="BPB016BTBK">
+      <model>BELKIN BoostCharge 26,000 mAh 32W PD 4-Port Power Bank, USB-C input 20W Max, 2x USB-C output: Max PD20W shared, 2x USB-A output: Max 12W shared</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>49990</price>
+    </offer>
+    <offer sku="BPB020BTBK">
+      <model>BELKIN BoostCharge 20,000 mAh 65W PD 3-Port Power Bank</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>54990</price>
+    </offer>
+    <offer sku="CAB003BT1MWH2PK">
+      <model>BELKIN BoostCharge USB-C to USB-C, 60W, 1M, White, 2pack</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>10990</price>
+    </offer>
+    <offer sku="CAB001BT1MBK">
+      <model>BELKIN BoostCharge USB-C to USB-A Cable, 1M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="18"/>
+      </availabilities>
+      <price>4990</price>
+    </offer>
+    <offer sku="CAB003BT1MWH">
+      <model>BELKIN BoostCharge USB-C to USB-C Cable, 1M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>5990</price>
+    </offer>
+    <offer sku="CAB003BT1MBK">
+      <model>BELKIN BoostCharge USB-C to USB-C Cable, 1M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>5990</price>
+    </offer>
+    <offer sku="CAB003BT2MWH">
+      <model>BELKIN BoostCharge USB-C to USB-C Cable, 2M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="11"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="CAB003BT2MBK">
+      <model>BELKIN BoostCharge USB-C to USB-C Cable, 2M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="3"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="CAA002BT1MBK">
+      <model>BELKIN BoostCharge USB-A Braided Cable with Lightning Connector, 1M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>10990</price>
+    </offer>
+    <offer sku="CAA002BT2MWH">
+      <model>BELKIN BoostCharge USB-A Braided Cable with Lightning Connector, 2M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>10990</price>
+    </offer>
+    <offer sku="CAA004BT2MBK">
+      <model>BELKIN BoostCharge USB-C Braided Cable with Lightning Connector, 2M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="47"/>
+      </availabilities>
+      <price>13990</price>
+    </offer>
+    <offer sku="CAA004BT2MWH">
+      <model>BELKIN BoostCharge USB-C Braided Cable with Lightning Connector, 2M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="31"/>
+      </availabilities>
+      <price>13990</price>
+    </offer>
+    <offer sku="CAA003BT1MBK">
+      <model>BELKIN Lightning to USB-C Cable PVC, 1M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>10990</price>
+    </offer>
+    <offer sku="CAA003BT1MWH">
+      <model>BELKIN Lightning to USB-C Cable PVC, 1M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>10990</price>
+    </offer>
+    <offer sku="CAB004BT1MBK">
+      <model>BELKIN BoostCharge USB-C to USB-C Braided Cable, 60W, 1M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="12"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="CAB004BT1MWH">
+      <model>BELKIN BoostCharge USB-C to USB-C Braided Cable, 60W, 1M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="CAB015BT2MWH">
+      <model>BELKIN BoostCharge USB-C to USB-C Braided Cable 240W PD, 2M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>7990</price>
+    </offer>
+    <offer sku="CAB025HQ2MWH">
+      <model>BELKIN BoostCharge USB-C to USB-C Braided Cable 240W PD, 2M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>12990</price>
+    </offer>
+    <offer sku="CAB025HQ2MBK">
+      <model>BELKIN BoostCharge USB-C to USB-C Braided Cable 240W PD, 2M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>12990</price>
+    </offer>
+    <offer sku="CAB025HQ3MWH">
+      <model>BELKIN BoostCharge USB-C to USB-C Braided Cable 240W PD, 3M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>18990</price>
+    </offer>
+    <offer sku="CAB025HQ3MBK">
+      <model>BELKIN BoostCharge USB-C to USB-C Braided Cable 240W PD, 3M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>18990</price>
+    </offer>
+    <offer sku="CAB011BT1MBK">
+      <model>BELKIN BoostCharge PRO Flex USB-C to USB-C Braided Silicone Cable, 60W, 1M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>8990</price>
+    </offer>
+    <offer sku="CAB011BT1MWH">
+      <model>BELKIN BoostCharge PRO Flex USB-C to USB-C Braided Silicone Cable, 60W, 1M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>8990</price>
+    </offer>
+    <offer sku="CAB011BT2MWH">
+      <model>BELKIN BoostCharge PRO Flex USB-C to USB-C Braided Silicone Cable, 60W, 2M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>11990</price>
+    </offer>
+    <offer sku="CAB011BT3MBK">
+      <model>BELKIN BoostCharge PRO Flex USB-C to USB-C Braided Silicone Cable, 60W, 3M, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="19"/>
+      </availabilities>
+      <price>14990</price>
+    </offer>
+    <offer sku="CAB011BT3MWH">
+      <model>BELKIN BoostCharge PRO Flex USB-C to USB-C Braided Silicone Cable, 60W, 3M, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="19"/>
+      </availabilities>
+      <price>14990</price>
+    </offer>
+    <offer sku="INZ003BT1MBK">
+      <model>BELKIN Connect Thunderbolt 4 Cable, 1M, Passive</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>32990</price>
+    </offer>
+    <offer sku="INZ002BT2MBK">
+      <model>BELKIN Connect Thunderbolt 4 Cable, 2M, Active</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>59990</price>
+    </offer>
+    <offer sku="WCA009KQWH">
+      <model>BELKIN 20W USB-C CUBE WALL CHARGER WITH PPS, WH</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="WCA012KQBK">
+      <model>Belkin 25W USBC PD WALL CHARGER WITH PPS, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>11990</price>
+    </offer>
+    <offer sku="WCA012KQWH">
+      <model>Belkin 25W USBC PD WALL CHARGER WITH PPS, WHT</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>11990</price>
+    </offer>
+    <offer sku="WCA012KQ1MBK-B6">
+      <model>BELKIN 25W USBC PD WALL CHARGER &amp; 1M PVC C-C, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>16990</price>
+    </offer>
+    <offer sku="WCA012KQ1MWH-B6">
+      <model>BELKIN 25W USBC PD WALL CHARGER &amp; 1M PVC C-C, WHT</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>16990</price>
+    </offer>
+    <offer sku="WCA008KQWH">
+      <model>Belkin 30W USB PD Wall Charger with PPS, WHT</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>12990</price>
+    </offer>
+    <offer sku="WCA013KQWH">
+      <model>Belkin 45W USB PD WALL CHARGER WITH PPS, WHT</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>16990</price>
+    </offer>
+    <offer sku="WCA013KQBK">
+      <model>Belkin 45W USB PD WALL CHARGER WITH PPS, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="38"/>
+      </availabilities>
+      <price>16990</price>
+    </offer>
+    <offer sku="WCA013KQ1MWH-B6">
+      <model>BELKIN 45W USB PD WALL CHARGER &amp; 1M C-C CBL, WHT</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>18990</price>
+    </offer>
+    <offer sku="WCA013KQ1MBK-B6">
+      <model>BELKIN 45W USB PD WALL CHARGER &amp; 1M C-C CBL, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>18990</price>
+    </offer>
+    <offer sku="WCH013VF2MWH-B6">
+      <model>BELKIN BoostCharge PRO Dual 65W USB-C PD GaN Fast Charger with PPS, Access up to 65W when using a single USB-C port or 45W + 20W when using both, 2M USB-C to USB-C Cable</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="39"/>
+      </availabilities>
+      <price>29990</price>
+    </offer>
+    <offer sku="WCH019KQBK">
+      <model>BELKIN 50W Dual USB-C PD Wall Charger with PPS, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="WCH019KQWH">
+      <model>BELKIN 50W Dual USB-C PD Wall Charger with PPS, WHT</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>22990</price>
+    </offer>
+    <offer sku="WCH020KQBK">
+      <model>BELKIN 67W Dual USB-C PD Wall Charger with PPS, BLK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="33"/>
+      </availabilities>
+      <price>26990</price>
+    </offer>
+    <offer sku="WCH020KQWH">
+      <model>BELKIN 67W Dual USB-C PD Wall Charger with PPS, WHT</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>26990</price>
+    </offer>
+    <offer sku="WCH016HQWH">
+      <model>BELKIN 100w 2C1A Wall Charger with interchangable plug tips UK, EU, US</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>44990</price>
+    </offer>
+    <offer sku="WCH018HQWH">
+      <model>BELKIN 70w 2C1A Wall Charger with interchangable plug tips UK, EU, US</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="50"/>
+      </availabilities>
+      <price>31990</price>
+    </offer>
+    <offer sku="WCH014BTWH">
+      <model>BELKIN BoostCharge PRO 140W 4-Port GaN Wall Charger</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>74990</price>
+    </offer>
+    <offer sku="MSC008BTBK">
+      <model>Belkin Secure Holder with Carabiner for AirTag</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="2"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="MSC009BTBK">
+      <model>Belkin Secure Holder with Wire Cable for AirTag</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="6"/>
+      </availabilities>
+      <price>11990</price>
+    </offer>
+    <offer sku="MSC013BTBK">
+      <model>Belkin WATERPROOF KEYCHAIN,PC,BLACK</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="20"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="MSC013BTBL">
+      <model>Belkin WATERPROOF KEYCHAIN,PC,BLUE</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="MSC015BTBK">
+      <model>Belkin Secure Holder - Airtag - Waterproof Keyring - 4 Pack, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>13990</price>
+    </offer>
+    <offer sku="F8W973BTBLK">
+      <model>BELKIN Secure Holder with Key Ring for AirTag, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="3"/>
+      </availabilities>
+      <price>7990</price>
+    </offer>
+    <offer sku="F8W973BTBLU">
+      <model>BELKIN Secure Holder with Key Ring for AirTag, Blue</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="F8W973BTPNK">
+      <model>BELKIN Secure Holder with Key Ring for AirTag, Pink</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="F8W973BTWHT">
+      <model>BELKIN Secure Holder with Key Ring for AirTag, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="5"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="F8W974BTBLK">
+      <model>BELKIN Secure Holder with Strap for AirTag, Black</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="F8W974BTBLU">
+      <model>BELKIN Secure Holder with Strap for AirTag, Blue</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="F8W974BTPNK">
+      <model>BELKIN Secure Holder with Strap for AirTag, Pink</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="F8W974BTWHT">
+      <model>BELKIN Secure Holder with Strap for AirTag, White</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="1"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+    <offer sku="WIC008BTGR-V2">
+      <model>BELKIN BoostCharge Pro Wireless Charging Car Vent Mount with Magnetic Qi2 15W, with 20W USB-C PD 3.0 car power supply unit, 1.2M USB-C Cable.</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="12"/>
+      </availabilities>
+      <price>39990</price>
+    </offer>
+    <offer sku="WIC008BTGR-NCV2">
+      <model>BELKIN BoostCharge Pro Wireless Charging Car Vent Mount with Magnetic Qi2 15W, 1.2M USB-C Cable.</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="2"/>
+      </availabilities>
+      <price>33990</price>
+    </offer>
+    <offer sku="CCC001HQBK">
+      <model>BELKIN 75W Car Charger with Retractable USB-C Cable</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="20"/>
+      </availabilities>
+      <price>23990</price>
+    </offer>
+    <offer sku="CCA004BTBK">
+      <model>BELKIN BoostCharge USB-C PD Car Charger 30W</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="5"/>
+      </availabilities>
+      <price>10990</price>
+    </offer>
+    <offer sku="CCA004BT1MBK-B6">
+      <model>BELKIN BoostCharge USB-C PD Car Charger 30W + 1M USB-C to USB-C Cable</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="yes" storeId="PP12" stockCount="10"/>
+      </availabilities>
+      <price>12990</price>
+    </offer>
+    <offer sku="CCB005BTBK">
+      <model>BELKIN BoostCharge 42W Dual USB PD PPS Car Charger, 30W USB-C &amp; 12W USB-A</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>12990</price>
+    </offer>
+    <offer sku="CCB001BTBK">
+      <model>BELKIN BoostCharge Dual USB-A Car Charger 24W, 12W power from each port</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>7990</price>
+    </offer>
+    <offer sku="AVC012BT2MBK">
+      <model>BELKIN USB-C TO HDMI 2.1 CABLE (2M)</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>35990</price>
+    </offer>
+    <offer sku="AV10176BT2M-BLK">
+      <model>BELKIN 8K Ultra High Speed HDMI 2.1 Braided Cable, Delivers 8K@60Hz or 4K@120Hz, supports Dolby Vision and HDR 10, ideal for Sony PlayStation 5 (PS5) and Microsoft Xbox Series X, 2m Cable</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>41990</price>
+    </offer>
+    <offer sku="AV10175BT2MBKV2">
+      <model>BELKIN 8K Ultra High Speed HDMI 2.1 Cable, Delivers 8K@60Hz or 4K@120Hz, supports Dolby Vision and HDR 10, deal for Sony PlayStation 5 (PS5) and Microsoft Xbox Series X, 2m Cable</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>20990</price>
+    </offer>
+    <offer sku="F3Y021BT1M">
+      <model>BELKIN High-Speed HDMI Cable with Ethernet 4K/Ultra HD Compatible, Full 1080p support, 1m</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>4990</price>
+    </offer>
+    <offer sku="F3Y021BT5M">
+      <model>BELKIN High-Speed HDMI Cable with Ethernet 4K/Ultra HD Compatible, Full 1080p support, 5m</model>
+      <brand>Belkin</brand>
+      <availabilities>
+        <availability available="no" storeId="PP12"/>
+      </availabilities>
+      <price>9990</price>
+    </offer>
+  </offers>
+</kaspi_catalog>
