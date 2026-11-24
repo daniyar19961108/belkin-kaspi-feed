@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-24 06:53" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-24 17:24" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>Belkin kz</company>
   <merchantid>30487443</merchantid>
   <offers>
@@ -151,7 +151,7 @@
       <model>BELKIN BOOSTCHARGE POWERBANK 10K W/ INTEGRATED CABLE,BLUE</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="8"/>
+        <availability available="yes" storeId="PP12" stockCount="4"/>
       </availabilities>
       <price>23990</price>
     </offer>
@@ -367,7 +367,7 @@
       <model>BELKIN BoostCharge USB-C to USB-C Braided Cable, 60W, 1M, Black</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="14"/>
+        <availability available="no" storeId="PP12"/>
       </availabilities>
       <price>6990</price>
     </offer>
@@ -423,7 +423,7 @@
       <model>BELKIN BoostCharge PRO Flex USB-C to USB-C Braided Silicone Cable, 60W, 1M, Black</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="50"/>
+        <availability available="yes" storeId="PP12" stockCount="16"/>
       </availabilities>
       <price>8990</price>
     </offer>
@@ -455,7 +455,7 @@
       <model>BELKIN BoostCharge PRO Flex USB-C to USB-C Braided Silicone Cable, 60W, 3M, White</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="19"/>
+        <availability available="yes" storeId="PP12" stockCount="18"/>
       </availabilities>
       <price>14990</price>
     </offer>
@@ -495,7 +495,7 @@
       <model>Belkin 25W USBC PD WALL CHARGER WITH PPS, WHT</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="50"/>
+        <availability available="no" storeId="PP12"/>
       </availabilities>
       <price>11990</price>
     </offer>
@@ -519,7 +519,7 @@
       <model>Belkin 30W USB PD Wall Charger with PPS, WHT</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="50"/>
+        <availability available="yes" storeId="PP12" stockCount="47"/>
       </availabilities>
       <price>12990</price>
     </offer>
@@ -535,7 +535,7 @@
       <model>Belkin 45W USB PD WALL CHARGER WITH PPS, BLK</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="38"/>
+        <availability available="no" storeId="PP12"/>
       </availabilities>
       <price>16990</price>
     </offer>
@@ -759,7 +759,7 @@
       <model>BELKIN BoostCharge USB-C PD Car Charger 30W + 1M USB-C to USB-C Cable</model>
       <brand>Belkin</brand>
       <availabilities>
-        <availability available="yes" storeId="PP12" stockCount="10"/>
+        <availability available="yes" storeId="PP12" stockCount="9"/>
       </availabilities>
       <price>12990</price>
     </offer>
